@@ -6,7 +6,9 @@ Logo image
 
 
 
+
 ## **Business Plan Outline** 
+
  
 ### 1. **OPPORTUNITY** 
 #### 1.1 The Problem 
