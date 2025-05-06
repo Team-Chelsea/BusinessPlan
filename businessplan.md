@@ -6,7 +6,9 @@ Logo image
 
 
 
-## **DRAFTED version of TOC** 
+
+## **Business Plan Outline** 
+
  
 ### 1. **OPPORTUNITY** 
 #### 1.1 The Problem 
