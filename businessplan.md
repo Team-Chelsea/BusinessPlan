@@ -102,3 +102,16 @@ Logo image
 - #### **Executive Dashboards:** Track team-wide trends (e.g., "Q3: 25% reduction in cross-team conflicts").
 - #### **Military-Grade Privacy:** End-to-end encryption; individual data never shared without consent (GDPR/CCPA compliant).
 
+---
+
+### **1.5 Impact on Society and Education**
+
+Education
+
+Problem: 68% of students graduate without collaborative problem-solving skills (OECD).
+Our Role: Provides K-12/universities with objective metrics to teach and grade teamwork—proven to boost group project outcomes by 35%.
+Future of Work
+
+Economic Value: Companies with top-quartile communication practices deliver 47% higher shareholder returns (Towers Watson).
+Human Value: Reduces workplace stress (linked to $300B/year US productivity loss) by fostering psychologically safe environments.
+Mission Alignment: Supports 4 UN SDGs (Quality Education, Gender Equality, Decent Work, Reduced Inequalities).
