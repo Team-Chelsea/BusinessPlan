@@ -105,6 +105,64 @@ Logo image
 
 ---
 
+## **3. PROPERTIES**
+
+### **3.1 Domain & Application Presence**
+
+- #### **Internet Domain:**  
+  [Domain Name - To Be Secured, aligned with Company Name 'Chelsea']
+
+- #### **Application Presence:**  
+  [Clarify MVP State - e.g., Web-based application accessible via browser. Integrates with Zoom, Google Meet, Teams via API for recording/transcript retrieval.]
+
+### **3.2 Technology Platform**
+
+- #### **MVP Status:**  A functioning Minimum Viable Product (MVP) exists, developed using rapid prototyping methodologies ("vibecoding"). It successfully demonstrates core functionalities.
+
+- #### **Infrastructure Scalability:**  Further assessment is required to determine the current infrastructure's capacity to support a larger user base and ensure robustness for commercial launch. Planning for scalable cloud architecture (e.g., on AWS, Google Cloud, or Azure) will be a priority.
+
+- #### **Core Technologies:**  
+  [Finalized Tech Stack Needed - Specify choices for Frontend, Backend, Database, Cloud Platform, and key APIs currently used.]
+
+#### **3.2.1 Potential Intellectual Property (IP):** Several aspects of the technology may offer potential for patent protection, pending formal legal review:
+
+- ##### **Proprietary EI Correlation Algorithm:**  A unique method for analyzing communication patterns (e.g., sentiment shifts, interruptions, talk-time ratios) and correlating them with specific dimensions of Emotional Intelligence (based on Goleman's framework or a refined model) within team interactions.
+
+- ##### **Automated Actionable Feedback Generation:**  A novel process using AI/LLMs to generate personalized, context-aware, and actionable coaching tips for EI and communication improvement directly from meeting data analysis, without explicit user queries.
+
+- ##### **Privacy-Preserving Dynamics Aggregation:**  A specific methodology for aggregating sensitive individual interaction data into meaningful, anonymized group-level dynamics reports for managers that effectively highlight trends without compromising individual privacy.
+
+- ##### **Novel Interaction Visualization:**  A unique interface or data visualization technique for representing complex team dynamics, emotional tones, and participation balance over the course of a meeting or across multiple meetings.
+
+### **3.3 Core Features (MVP)**
+
+- #### **Meeting Transcription with Speaker Identification**  Accurate transcription with speaker labels via diarization.
+
+- #### **Sentiment & Emotional Tone Analysis**  Tracks emotional tone (positive, neutral, negative) over time and linked to topics/speakers.
+
+- #### **Team Dynamics Tracking**  Measures talk time, interruptions, inclusivity, question usage, feedback types; flags imbalances.
+
+- #### **Emotional Intelligence (EI) Feedback**  Provides team-level summaries and individual coaching tips based on Goleman's EI framework (Self-awareness, Self-regulation, Motivation, Empathy, Social skills).
+
+- #### **Post-Meeting Summary Delivery**  Automated delivery of key insights, visuals, and actionable tips.
+
+### **3.4 Potential Future Features**
+
+- #### Real-time meeting analysis and feedback  
+- #### Integrations with project management tools (e.g., Asana, Jira)  
+- #### Customizable feedback templates  
+- #### AI-powered recommendations for team-building activities  
+- #### Advanced analytics dashboards for leadership
+
+### **3.5 Initial User Base Strategy**
+
+- #### **Phase 1 – University Students:**  Focus on university students involved in group projects as initial testers and early adopters. Utilize networks, target relevant courses via professor outreach, and connect with student organizations. Emphasize the value proposition for skill development and project success.
+
+- #### **Phase 2 – Startup Teams:**  Subsequent focus will shift to startup teams seeking efficiency, cohesion, and data-driven feedback on collaboration.
+
+
+---
+
 ## **4. PARTNERSHIPS**
 
 ### **4.1 Startups and Developers**
