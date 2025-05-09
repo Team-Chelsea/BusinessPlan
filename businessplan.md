@@ -1,6 +1,6 @@
 # **Business Plan Team Chelsea**
 # **Product:** AI-Powered Group Dynamics & Performance Analysis Tool
-![A cat sitting on a mat](https://typli.ai/_next/image?url=%2Fai-text-generator.png&w=1200&q=75)
+![chelsea logo](https://sdmntprwestus.oaiusercontent.com/files/00000000-2d58-6230-b835-9d3859572105/raw?se=2025-05-09T22%3A43%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=7399a3a4-0259-4d43-bcd6-a56ceeb4c28b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-09T20%3A25%3A34Z&ske=2025-05-10T20%3A25%3A34Z&sks=b&skv=2024-08-04&sig=KWybgtsFO20EfG3Dqu1x/5jKo07Hwcqe97rcBI6tt3Y%3D)
 ## **Date:** March 27, 2025
 
 ---
@@ -11,7 +11,7 @@
 |-----------------------|-----------------------------------------------------------------------------|
 | **1. OPPORTUNITY**    | 1.1 The Problem<br>1.2 Why Now?<br>1.3 The Solution<br>1.4 User Experience Principles<br>1.5 Impact on Society and Education |
 | **2. INVESTMENT**     | 2.1 Our Company<br>2.2 Team<br>2.3 Funding & Initial Partnership Terms      |
-| **3. PROPERTIES**     | 3.1 Domain & Application Presence<br>3.2 Technology Platform<br> - 3.2.1 Potential IP<br>3.3 Core Features (MVP)<br>3.4 Potential Future Features<br>3.5 Initial User Base Strategy |
+| **3. PROPERTIES**     | 3.1 Domain & Application Presence<br>3.2 Technology Platform<br> 3.2.1 Potential IP<br>3.3 Core Features (MVP)<br>3.4 Potential Future Features<br>3.5 Initial User Base Strategy |
 | **4. PARTNERSHIPS**   | 4.1 Startups and Developers<br>4.2 Digital Content                          |
 | **5. MARKET ANALYSIS**| 5.1 Market Opportunity & Size<br>5.2 Target Audience Segments<br>5.3 Competitive Landscape<br>5.4 Our Unfair Advantages |
 | **6. CONCLUSION**     |                                                                             |
@@ -109,7 +109,7 @@ Chelsea is founded by a complementary team with diverse backgrounds poised to ex
 |----------------------------------|-----------------------------------|--------------------|
 | **Aitana Saettone**              | CEO / Head of Operations         | Bachelor's in PPLE; background in consulting and payment solutions |
 | **Sali Alkaabi**                 | Head of Product / Tech Liaison   | Bachelor's in Business Administration |
-| **Sophie Angel**                 | Head of Marketing & Design       | Leads branding and UX design |
+| **Sophie Angel**                 | Head of Marketing & Design       | Bachelor's in International Relations; leads branding and UX design |
 | **Theo van der Meerschen**       | Head of Commercial Strategy/CFO  | Bachelor's in Business; investment banking experience |
 
 ### **2.3 Funding & Initial Partnership Terms**
